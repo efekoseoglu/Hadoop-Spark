@@ -2,6 +2,7 @@
 To run Spark codes on WIN10 21H2 LTSC, following environments required:
 
 Pycharm,
+
 HADOOP_HOME C:\Hadoop,
 
 SPARK_HOME [C:\spark-3.5.0-bin-hadoop3](https://spark.apache.org/downloads.html),
